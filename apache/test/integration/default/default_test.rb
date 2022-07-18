@@ -1,7 +1,7 @@
-# InSpec test for recipe apache::default
+# Chef InSpec test for recipe apache::default
 
-# The InSpec reference, with examples and extensive documentation, can be
-# found at https://www.inspec.io/docs/reference/resources/
+# The Chef InSpec reference, with examples and extensive documentation, can be
+# found at https://docs.chef.io/inspec/resources/
 
 unless os.windows?
   # This is an example test, replace with your own test.
